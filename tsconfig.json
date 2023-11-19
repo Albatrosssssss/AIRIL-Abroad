@@ -7,7 +7,11 @@
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "target": "es2017",
+=======
+    "target": "ES2021",
+>>>>>>> 9f0dece3b6fc10844c70e409a83603b2d7dde501
 =======
     "target": "ES2021",
 >>>>>>> 9f0dece3b6fc10844c70e409a83603b2d7dde501
