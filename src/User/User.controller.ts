@@ -48,6 +48,7 @@ export class UserController {
     }
   }
 
+  //User updated check
   //update phone number (id,Phone Number)
   @Patch('/updateNumber/:id/number')
   userUpdateNumber(): String{
